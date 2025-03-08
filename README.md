@@ -38,6 +38,7 @@ Worked on Backend part of the application, optimised prefix download to reduce t
 Integrated multiple services like shared card, subscription etc to extend application feature. 
 
 **Tech Stack**: Java, Spring Boot, PostgreSQL, AWS, Azure. 
+
 **Link** [SIS2O](https://sis2.cat.com/#/)
 
 
