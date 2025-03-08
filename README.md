@@ -19,14 +19,14 @@ I'm Aman Prakash, a passionate Java developer with a love for crafting efficient
 ## 🚀 Projects
 
 ### 1. Distributor Management System (DMS)
-- **Website**: [Risengine](http://risengine.com)
+- **Link**: [Risengine](http://risengine.com)
 
 Implemented a comprehensive Distributor Management System that automated tasks like order processing, invoicing, and inventory tracking.  
 Integrated AWS Cognito for secure user authentication and Razorpay for seamless payment processing.  
 **Tech Stack**: Java, Spring Boot, PostgreSQL, AWS.
 
 ### 2. CarCam Project (IoT-based Camera System)
-- **Website**: [Kent Cam Eye](https://www.kent.co.in/cam-eye)
+- **Link**: [Kent Cam Eye](https://www.kent.co.in/cam-eye)
 
 Developed an IoT camera system for live streaming and real-time notifications using human detection.  
 Collaborated with the team to re-architect the notification service, improving reliability.  
@@ -39,7 +39,7 @@ Integrated multiple services like shared card, subscription etc to extend applic
 
 **Tech Stack**: Java, Spring Boot, PostgreSQL, AWS, Azure. 
 
-**Link** [SIS2O](https://sis2.cat.com/#/)
+- **Link** [SIS2O](https://sis2.cat.com/#/)
 
 
 ## Get in Touch
